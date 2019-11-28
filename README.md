@@ -1,2 +1,2 @@
-# Annual-Airport-Stats
+# Annual Airport Stats
 This project aims to calculate and store the success rate of an airport. Success of an airport can partly be measured by the efficiency of departing and landing planes in the airport. Thus, the project utilizes structs in c++ to capture monthly data of how many planes landed and departed a particular airport and calculates the averages for the year. This data can be used to measure the success rates of airports across the industry and help point out improvements that airports can implement to catch up to the standard model. 
